@@ -1,4 +1,4 @@
-# [SQL-POWERBI-Dashboard] Maven Market chain store business performance data analysis 
+# [SQL-PBI-Dashboard] Maven Market chain store business performance data analysis 
 
 ## About the project
 Maven Market, a hypothetical multinational supermarket chain operating in Canada, Mexico, and the United States, offers a wide range of essential products, including food, beverages, household items, fashion, home goods, and electronics.
