@@ -98,6 +98,9 @@ The visualization of data requires maximum attention as data can only communicat
 - Map
 - Stacked column chart
 
+Here is my dashboard:
+![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=1ReHl2LkIuiqspRO7qjgU-fI1BHYDrbTR)
+
 ### VI. Insights
 
 1. **Top performing brand in sales:** Hermanos
