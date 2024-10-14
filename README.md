@@ -60,7 +60,6 @@ All foreign keys were made invisible to streamline the user experience and enhan
 ![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=1Ph-eoMxyHaKT7exRl3DzHELRDZs1BLST)
 
 
-
 ### IV. Creating Measures and Calculations Using DAX
 
 | Measure                | Description                                                                         | DAX Formula                                           |
@@ -99,7 +98,11 @@ The visualization of data requires maximum attention as data can only communicat
 - Stacked column chart
 
 Here is my dashboard:
-![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=1ReHl2LkIuiqspRO7qjgU-fI1BHYDrbTR)
+![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=1g4u5FljBNho6XfrIzwi0wEbWcplNFaKB)
+
+![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=14xjektA6uxKm6F3xZsl0pigHc5j5lIFE)
+
+![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=1CLCmKeAIk4i42hUNWia_kMaOBeft6kbb)
 
 ### VI. Insights
 
