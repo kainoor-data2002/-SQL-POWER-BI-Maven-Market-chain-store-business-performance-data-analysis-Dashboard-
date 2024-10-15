@@ -104,69 +104,161 @@ Here is my dashboard:
 
 ![Hình ảnh từ Google Drive](https://drive.google.com/uc?id=1CLCmKeAIk4i42hUNWia_kMaOBeft6kbb)
 
-### VI. Insights
+### VI. Insights And Recomendations
 
-1. **Top performing brand in sales:** Hermanos
-2. **Top 5 profit-generating brands:** ADJ, Quick, Dual City, Akron, Plato, with profit margins ranging from 64% to 69%
-3. **Brand facing the highest return rate:** King with 2%
-4. Female customers aged 31-70 contribute the highest sales, accounting for more than 50% of total revenue.
-5. Customers aged 18-30 generate the lowest sales.
-6. The country with the highest sales is the USA, while Canada has the lowest sales.
-7. The city with the highest sales is Spokane, while the lowest sales are found in Mill Valley, San Francisco, Oakland, and Redwood City in the USA.
-8. The city with the highest sales in Canada is Langley, and the lowest is Royal Oak.
-9. The top 3 customer occupations influencing sales the most are **Professional**, **Skilled Manual**, and **Manual**.
-10. The customer occupation with the least impact on sales is **Clerical**.
-11. It was observed that early-week days during the winter months (end of the year) generate the highest sales.
+### Insight 01:
 
-### VII. Recommendations
+#### I. Overview of Sales (1997-1998):
+- **Total Sales:** $1.76M, **Profit:** $1.05M, **Transactions:** 270K.
+- **Sales Distribution by Country:**
+  - **USA:** Dominates with 66-67% of total sales across age groups 31-50, 51-70, and above 70.
+  - **Canada:** Lowest sales, around 6%.
+- **Top-Selling Products (1997-1998):**
+  - **Canada:** Thai Rice, AAA-Size Batteries.
+  - **Mexico:** Rye Bread, Thai Rice, Apple Fruit Roll.
+  - **USA:** Frying Pan, Thai Rice, Frozen Chicken Wings.
+- **Monthly Sales Trends:**
+  - **Canada:** Relatively stable, between $7K-$10K.
+  - **Mexico:** Slight fluctuations, with significant growth in the last three months (from $37K to $49K).
+  - **USA:** Strong surge in November and December (from $88K to $119K).
+- **Customer Occupation Trends:** The highest sales came from customers with occupations like Manual, Skilled Manual, and Professional, especially Professionals.
 
-#### 1. **Optimize product lines based on performance**
+#### II. Market Insights:
+- **Top Products by Store Type:**
+  - **Deluxe Supermarket:** Sugar Cookies, Thai Rice, AAA-Size Batteries.
+  - **Gourmet Supermarket:** Sugar Cookies, Chicken Soup, Apple Fruit Roll.
+  - **Mid-Size Grocery:** Raspberry Fruit Roll, Spaghetti, Plastic Knives.
+  - **Small Grocery:** Chicken Soup, Low Fat Popcorn, Havarti Cheese.
+  - **Supermarket:** Frying Pan, Popsicles, Thai Rice.
+- **Sales Trends by Month:** Sales see a significant rise in the last three months (October to December), increasing from $118K to $177K, driven by end-of-year shopping events and increased consumer demand.
+- **Profit Margin:** Slight decrease from 59.7% to 59.66% over two years, though relatively stable over the long term.
 
-- **Insight**: The "Hermanos" brand is the best-selling brand, and the brands "ADJ," "Quick," "Dual City," "Akron," and "Plato" have the highest profit margins (64%-69%).
-- **Strategy**: Increase promotion and distribution for brands that generate **high revenue and large profits**, such as Hermanos, ADJ, and Quick. In particular, **focus on promotional programs** for these brands in areas with low sales to improve sales performance.
-  - **Idea**: Design **promotional campaigns tied to top brands** like Hermanos and ADJ, combined with **increased online sales** to attract potential customer groups while encouraging the purchase of high-profit margin products.
+#### III. Business Recommendations:
 
-#### 2. **Reduce product return rates**
+1. **Enhance Year-End Marketing Campaigns:**
+   - Focus on aggressive marketing during the last three months of the year when sales peak. Implement promotional campaigns aligned with major year-end events to boost sales further.
 
-- **Insight**: The "King" brand has the highest product return rate (2%).
-- **Strategy**: Conduct a **quality assessment of King products** to identify specific issues. Also, consider adjusting or **restructuring this product line** to reduce return rates and improve brand image.
-  - **Idea**: Implement a **hassle-free return program** for King products and offer **special incentives** for customers to continue purchasing other products, minimizing the negative impact of return rates.
+2. **Expand in Mexico and Canada:**
+   - **Mexico** shows strong sales growth in the second half of the year. Increase distribution of top-selling products like Thai Rice and Apple Fruit Roll in large stores during this period.
+   - **Canada** has lower sales, but still has growth potential. Develop localized strategies to better penetrate the market and cater to local preferences.
 
-#### 3. **Focus on female customers aged 31-70**
+3. **Diversify Product Portfolio by Store Type:**
+   - Focus on expanding key products for each store type, such as Thai Rice and AAA-size Batteries for Deluxe Supermarkets, and Chicken Soup and Havarti Cheese for Small Grocery stores. This will optimize the product offering and target the right customer base for each store category.
 
-- **Insight**: Female customers aged 31-70 contribute over 50% of total sales.
-- **Strategy**: Develop **personalized marketing and promotional programs** targeting this customer group, enhancing the shopping experience, and building a loyalty program specifically for women in this age group.
-  - **Idea**: Create **special product packages** and **prioritize customer service** for women in this age range, along with developing a **personalized mobile app** to provide product recommendations based on previous shopping preferences and behavior.
+4. **Target Professional and Skilled Manual Customers:**
+   - Leverage marketing strategies targeting these customer segments, as they contribute the highest sales. Further analyze their buying patterns to tailor products and services that cater to their needs.
 
-#### 4. **Develop a strategy to engage younger customers (18-30)**
+5. **Optimize Profit Margins:**
+   - Closely monitor profit margins to prevent further declines, particularly in high-sales periods. Focus on reducing production and operational costs without compromising product quality.
 
-- **Insight**: Customers aged 18-30 generate the lowest sales.
-- **Strategy**: Launch **marketing campaigns targeting younger customers**, with suitable products and pricing strategies that match their spending capabilities. Social media platforms can be used to **boost brand awareness** among this audience.
-  - **Idea**: Create **flash sale promotions** on online channels and social media, while collaborating with **influencers** and digital marketing campaigns to attract the attention of this younger age group.
+6. **Expand Loyalty Programs:**
+   - Develop loyalty programs to retain customers, particularly in high-performing stores like Supermarkets and Gourmet Supermarkets, which generate significant sales volume. This will help boost customer retention and long-term growth.
 
-#### 5. **Enhance presence in Canada**
 
-- **Insight**: Canada has the lowest sales among the three countries, especially in Royal Oak.
-- **Strategy**: Analyze the factors leading to low sales in Canada and focus on cities with potential, such as Langley. Build a **market development strategy** aimed at increasing brand awareness and improving customer experience in Canada.
-  - **Idea**: **Host community events** and major discount programs in areas with low sales. Simultaneously, boost **brand promotion through exclusive promotions** and **offers specifically for Canadian customers**.
+### Insight 02:
 
-#### 6. **Enhance services in the USA, especially in Spokane**
+#### I. Scatter Plot Insights: Relationship Between Revenue, Costs, and Profit Margins of Brands
 
-- **Insight**: Spokane has the highest sales in the USA, while cities such as Mill Valley, San Francisco, Oakland, and Redwood City have low sales.
-- **Strategy**: **Expand services** and increase the **loyalty program** in Spokane to capitalize on the strong market, while also **boosting promotions and advertisements** in cities with lower sales.
-  - **Idea**: **Open new branches** or **online sales points** in Spokane, along with local **advertising events** in lower-performing areas to increase awareness and attract new customers.
+1. **Size represents Revenue:**
+- Products with larger sizes indicate higher revenue. It is evident that products with total costs ranging from $5,000 to $10,000 generally have larger sizes, meaning these products generate more revenue.
+- Products with very high costs (above $15,000), despite their large size (high revenue), show profit margins ranging from 0.55 to 0.60. This suggests that high costs are affecting profit optimization, even though revenue remains high.
 
-#### 7. **Focus on occupations that drive high sales**
+2. **Products with High Profit Margins (Above 0.60):**
+- Some products have a profit margin above 0.60 but are smaller in size (lower revenue). This indicates that while these products have good profit margins, they are not major revenue drivers. You might need to focus on increasing marketing efforts for these products to exploit their profit potential.
 
-- **Insight**: Occupations such as Professional, Skilled Manual, and Manual have the greatest impact on sales.
-- **Strategy**: Develop **specialized programs** for these professions, such as exclusive offers for professionals and skilled workers, and enhance advertising in areas where these occupations are concentrated.
-  - **Idea**: **Develop a career-specific discount program** tailored to these professions, including periodic discounts or special gifts for high-sales customer groups.
+3. ***Revenue Distribution Across Cost Groups:***
+- High revenue is concentrated in the mid-cost range ($5,000 to $10,000). Products with lower costs (below $5,000) tend to be smaller in size, meaning they generate less revenue despite having relatively good profit margins.
+- Products with high costs (above $15,000) are concentrated within specific brands and do not have outstanding profit margins, even though they generate significant revenue.
+- Brands with mid-range costs ($5K-$15K) and relatively good profit margins (between 0.55 and 0.65) tend to generate medium to large revenues. These brands are the most stable revenue generators when compared to others, which show inconsistent revenues and profit margins.
 
-#### 8. **Capitalize on opportunities during the winter months**
+4. ***Notable Brands:***
+- **Hermanos**, **Tell Tale**, **Tri State**, **Ebony**, and products with costs above $15K appear as large data points (high revenue) and are focused on high-cost products. These brands might be employing a high-cost, high-revenue strategy but with relatively stable profit margins (around 0.55 to 0.65).
+- **Dual City**, **Quick**, and **ADJ** have smaller points but with high profit margins (above 0.65), though their revenues are not as prominent. This may point to an opportunity to optimize marketing strategies to boost revenue for these products with good profit margins.
 
-- **Insight**: Early-week days during the winter months (end of the year) generate the highest sales.
-- **Strategy**: Focus on **winter advertising and promotional campaigns**, particularly on early-week days, to increase revenue, while **optimizing the supply chain** and preparing for the peak season.
-  - **Idea**: Develop **special winter campaigns** with offers exclusive to early-week days, combined with **free shipping** or **incentives for online transactions** during this period.
+#### II. Business Recommendations:
+
+
+1. ***Increase Investment in Mid-Cost Products with Medium to High Revenue:***
+- Products with total costs ranging from $5,000 to $10,000 have larger sizes (generating medium to high revenue) and stable profit margins between 0.55 and 0.60. This group of products shows potential for sustainable value. Therefore, increasing investment in production, marketing, and distribution for these products could help expand revenue.
+
+2. ***Optimize Profit Margins for High-Cost Products:***
+- Products with costs above $15,000 generate high revenue but with lower profit margins. Consider optimizing production costs or revisiting product pricing to improve profit margins. Strategies like enhancing perceived customer value or reducing input costs could increase profitability without negatively impacting revenue.
+
+3. ***Focus on Developing High-Profit Margin Products:***
+- Products with high profit margins (above 0.60) but smaller sizes (lower revenue) need to be emphasized through marketing and distribution. Explore new markets or potential customer segments to increase sales for these products, better leveraging their profit potential.
+
+
+### Insight 03:
+
+#### I. Key insights
+
+1. ***Majority of Customers are from the USA:***
+- All but one customer are from the USA, with just one customer from Mexico. This indicates that the USA is the primary market with the highest number of transactions and total revenue.
+
+2. ***High Transaction Volume Linked to Higher Profit:***
+- Customers with a high number of transactions generally bring higher profit (e.g., customer #4676 has 301 transactions and a profit margin of 60.10%).
+
+3. ***Top Customers Have Consistent Profit Margins:***
+- All top customers have profit margins ranging from 59.28% to 60.19%, showing no significant variation in profit margins among the top customers.
+
+4. ***Mexican Customer Shows Slightly Lower Profit Margin:***
+- The single customer from Mexico has a profit margin of 59.32%, slightly lower compared to customers from the USA.
+
+#### II. Business Recommendations:
+
+1. ***Focus on Retaining Top USA Customers:***
+- Since top customers in the USA have a high number of transactions and revenue, consider creating loyalty programs or offering special incentives to retain and increase their loyalty.
+
+2. ***Boost Engagement with Mexican Customers:***
+- With fewer transactions from Mexico, this market may be underutilized. The recommendation is to enhance marketing efforts or offer special promotions to stimulate growth in this market.
+
+3. ***Further Analyze Profit Margins:***
+- While profit margins are consistent, optimizing margins across specific customer segments could be beneficial. Further analysis of the products or services that customers are purchasing could help optimize profitability.
+
+4. ***VIP Customer Program:***
+- Introduce special rewards programs for customers with high transaction volumes and total revenue. You could offer discounts, gifts, or personalized services to maintain their loyalty and increase spending.
+
+5. ***Leverage Customer Data for Personalized Experiences:***
+- Use data on transaction volumes, total revenue, and country to offer personalized product recommendations for each customer. This could help increase repeat purchases and raise average order value.
+
+### Insight 04:
+#### 1. Key Insights:
+
+1. ***Brands with the Highest Profit Margins:***
+- Brands such as **ADJ**, **Quick**, and **Dual City** have the highest profit margins at 68.84%, 68.48%, and 67.54%, respectively. These brands generate significant profits without needing exceptionally high total revenue.
+
+2. ***Transaction Volume Does Not Always Correlate with Profit Margins:***
+- For example, **Plato** and **BBB Best** have the highest number of transactions and total revenue ($29,114.13), but their profit margin (63.55%) is still lower than brands with fewer transactions like **ADJ** and **Quick**. This suggests that while **Plato** and **BBB Best** have strong sales, their profitability is not as optimized as other brands.
+
+3. ***Low Return Rates:***
+- Most brands on the list have very low return rates, ranging from 0.96% to 1.31%. This indicates that these brands' products are of high quality, or customers are less likely to return the products.
+
+#### II. Business Recommendations:
+
+1. ***Focus on High-Profit Margin Brands:***
+- Brands like **ADJ**, **Quick**, and **Dual City** should be prioritized in marketing and advertising efforts because they provide high profit margins without requiring high total revenue. Focusing on promoting products from these brands can help optimize overall profitability.
+
+2. ***Reassess Pricing and Cost Strategies for High Revenue Brands:***
+- For brands like **Plato** and **BBB Best**, while they generate substantial revenue, their profit margins are not as high as other brands. This suggests that re-evaluating their pricing strategies or optimizing production and operational costs could increase profit margins while maintaining high sales.
+
+3. ***Continue Supporting Products with Low Return Rates:***
+- With an average return rate of 0.96% to 1.31%, most products from these brands demonstrate stability in quality and customer satisfaction. This can help reduce operational and post-sale management costs.
+
+4. ***Strengthen Loyalty Programs for Popular Brands:***
+- Implement customer loyalty programs like offering reward points or discounts to repeat customers purchasing from these brands. This can help retain customer loyalty and drive further sales growth.
+
+5. ***Explore New Markets for Lower Margin Brands:***
+- For brands with slightly lower profit margins but high revenue, such as **Hermanos**, **Tell Tale**, and **Ebony**, focus on expanding into new markets to offset lower margins. Selling these products in markets with higher demand could improve profit margins.
+
+
+
+
+
+
+
+
+
+
 
 
 
