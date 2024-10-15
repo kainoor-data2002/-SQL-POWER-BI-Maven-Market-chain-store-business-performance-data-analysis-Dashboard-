@@ -3,14 +3,15 @@
 ## About the project
 Maven Market, a hypothetical multinational supermarket chain operating in Canada, Mexico, and the United States, offers a wide range of essential products, including food, beverages, household items, fashion, home goods, and electronics.
 
-Assume the leadership team at Maven Market has set key objectives for the analysis, focusing on the following areas:
+***Let’s say the leadership team at Maven Market has set key goals for analytics, focusing on the following:***
 
-- Enabling management to track key performance indicators (KPIs) such as sales, revenue, profit, and profit margin.
-- Comparing operational performance across different regions.
-- Analyzing weekly transaction trends.
-- Monitoring revenue progress to achieve a 5% increase compared to the previous month's revenue.
+- Enable management to track key performance indicators (KPIs) such as sales, revenue, profit, and profit margin by audience
+- Compare performance across different regions.
+- Track revenue progress to achieve a 5% increase over the previous month’s revenue.
 
-This project follows a structured process, with each step contributing to a comprehensive data analysis:
+Additionally, additional insights can be gleaned through self-developed analytics on the topics of revenue, costs, profit, and profit margin for audiences, customer spending habits analysis, product and customer analysis
+
+***This project follows a structured process, with each step contributing to a comprehensive data analysis:***
 
 1. **Dataset Exploration:** Identifying the scope, relevant information, and actual data details through data profiling.
 2. **Data Connection and Processing (ETL):** Using SQL to check for errors, inconsistencies, and data type mismatches to facilitate analysis. The transformation phase standardizes and cleanses the data to ensure accuracy (Data transformation and cleaning).
